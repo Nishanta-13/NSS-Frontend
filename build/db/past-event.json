@@ -1,0 +1,299 @@
+[
+    {
+        "id": 1,
+        "title": "NSS Inauguration (Aug 2023)",
+        "content": "The inauguration ceremony of NSS activities for the academic year 2023-24",
+        "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/m8ebceopqwoajlmzb9ok",
+        "year": 2023,
+        "event_type": "Specials",
+        "instagramUrl": "https://www.instagram.com/p/CwNm5X7sT8L/"
+    },
+    {
+        "id": 2,
+        "title": "Selection Process (Sept 2023)",
+        "content": "Selection of new volunteers for NSS program 2023-24",
+        "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/npb9t8yn5w45fgxsr4pz",
+        "year": 2023,
+        "event_type": "Selection Process",
+        "instagramUrl": "https://www.instagram.com/p/CxQr9YPsV2K/"
+    },
+    {
+        "id": 3,
+        "title": "Village Survey (Nov 2023)",
+        "content": "Survey conducted in nearby villages to understand community needs",
+        "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/betqxmesgseg8dadqnft",
+        "year": 2023,
+        "event_type": "Survey",
+        "instagramUrl": "https://www.instagram.com/p/CzLm8BQsP5N/"
+    },
+    {
+        "id": 4,
+        "title": "Diwali Donation Drive (Nov 2023)",
+        "content": "Distribution of sweets and clothes to underprivileged children during Diwali",
+        "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ezv7bvvluqox2arwl0ky",
+        "year": 2023,
+        "event_type": "Donation drive",
+        "instagramUrl": "https://www.instagram.com/p/CzmKpD7sR8Q/"
+    },
+    {
+        "id": 5,
+        "title": "Republic Day Parade (Jan 2024)",
+        "content": "NSS volunteers participation in Republic Day celebrations",
+        "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/d7qjjcjxzuvirdq1z9m8",
+        "year": 2024,
+        "event_type": "Specials",
+        "instagramUrl": "https://www.instagram.com/p/C2sNqY8sV8L/"
+    },
+    {
+        "id": 6,
+        "title": "Khadi Mahotsava (March 2024)",
+        "content": "Promotion of Khadi and village industries",
+        "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ymkdzefqznlecxmu8s6z",
+        "year": 2023,
+        "event_type": "Donation drive",
+        "instagramUrl": "https://www.instagram.com/p/C4Tm9J5sP2K/"
+    },
+    {
+        "id": 7,
+        "title": "Cleaning Event (March 2024)",
+        "content": "Campus cleanliness drive and waste management awareness",
+        "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/enowdoewrzfp2mqnznou",
+        "year": 2024,
+        "event_type": "Cleanliness Drive",
+        "instagramUrl": "https://www.instagram.com/p/C4gHmL_sR5Q/"
+    },
+    {
+        "id": 8,
+        "title": "Biodiversity Speaker Session (March 2024)",
+        "content": "Expert session on biodiversity conservation and sustainable practices",
+        "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k",
+        "year": 2024,
+        "event_type": "Awareness",
+        "instagramUrl": "https://www.instagram.com/p/C4pQnY2sT8L/"
+    },
+    {
+        "id": 9,
+        "title": "Mera Pehla Vote Desh ke Liye (March 2024)",
+        "content": "Voter awareness campaign for first-time voters",
+        "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/ypxfswsjs166npoqpzbk",
+        "year": 2024,
+        "event_type": "Awareness",
+        "instagramUrl": "https://www.instagram.com/p/C42KnJ8sV2K/"
+    },
+    {
+        "id": 10,
+        "title": "Waste Disposal in NIT (April 2024)",
+        "content": "Proper waste disposal and segregation training program",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742148149/duyctvtx9ypikgf5z4ip.webp",
+        "year": 2024,
+        "event_type": "Survey",
+        "instagramUrl": "https://www.instagram.com/p/C5Qr9YPsT8L/"
+    },
+    {
+        "id": 11,
+        "title": "Health Awareness Camp (April 2024)",
+        "content": "Free health checkup and awareness about common diseases",
+        "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/jyxi6uxr8m52wilcgole",
+        "year": 2024,
+        "event_type": "Awareness",
+        "instagramUrl": "https://www.instagram.com/p/C5dM5X7sR8Q/"
+    },
+    {
+        "id": 12,
+        "title": "Donation Drive in Schools (April 2024)",
+        "content": "Educational material distribution in government schools",
+        "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/ojcugjramj8v60tgq4ct",
+        "year": 2024,
+        "event_type": "Donation drive",
+        "instagramUrl": "https://www.instagram.com/p/C5gHmL_sP5N/"
+    },
+    {
+        "id": 13,
+        "title": "Pragati Parv (April 2024)",
+        "content": "Celebration of progress and achievements of NSS volunteers",
+        "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dfvg53flhrvri4nzgshb",
+        "year": 2024,
+        "event_type": "Specials",
+        "instagramUrl": "https://www.instagram.com/p/C5pQnY2sV8L/"
+    },
+    {
+        "id": 14,
+        "title": "Blood Donation Camp (April 2024)",
+        "content": "Annual blood donation camp in collaboration with Red Cross",
+        "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dclz5uocacdir3jjzcgb",
+        "year": 2024,
+        "event_type": "Blood Donation",
+        "instagramUrl": "https://www.instagram.com/p/C5sNqY8sT8L/"
+    },
+    {
+        "id": 15,
+        "title": "Farewell of Batch 24 (May 2024)",
+        "content": "Farewell ceremony for outgoing NSS volunteers",
+        "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dlnxkd9kg2ie0k08wfi4",
+        "year": 2024,
+        "event_type": "Specials",
+        "instagramUrl": "https://www.instagram.com/p/C6Lm8BQsP2K/"
+    },
+    {
+        "id": 16,
+        "title": "Help Desk for Batch 24 (Aug 2024)",
+        "content": "Orientation and help desk for new batch volunteers",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734946851/l0im96wntj1hwim0d1v7.webp",
+        "year": 2024,
+        "event_type": "Help desk",
+        "instagramUrl": "https://www.instagram.com/p/C7Qr9YPsV2K/"
+    },
+    {
+        "id": 17,
+        "title": "Har Ghar Tiranga Rally (Aug 2024)",
+        "content": "Independence Day rally promoting national flag in every home",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947123/NSS/ly0jh4i729wyq4ccmpvv.webp",
+        "year": 2024,
+        "event_type": "Awareness",
+        "instagramUrl": "https://www.instagram.com/p/C7dM5X7sR8Q/"
+    },
+    {
+        "id": 18,
+        "title": "Independence Day (Aug 2024)",
+        "content": "Flag hoisting ceremony and cultural program",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947149/NSS/riztoz7z2vfo6pzthezq.webp",
+        "year": 2024,
+        "event_type": "Specials",
+        "instagramUrl": "https://www.instagram.com/p/C7gHmL_sP5N/"
+    },
+    {
+        "id": 19,
+        "title": "Selection Process(24 Batch) (Sept 2024)",
+        "content": "Selection of new volunteers for 2024-25 academic year",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947292/NSS/oax3amq1jrfzrftj8bte.webp",
+        "year": 2024,
+        "event_type": "Selection Process",
+        "instagramUrl": "https://www.instagram.com/p/C7pQnY2sV8L/"
+    },
+    {
+        "id": 20,
+        "title": "Swatchhata pakhwada (Sept 2024)",
+        "content": "15-day cleanliness campaign across campus",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947340/NSS/erlqwzbccz4l64aniuw6.webp",
+        "year": 2024,
+        "event_type": "Awareness",
+        "instagramUrl": "https://www.instagram.com/p/C7sNqY8sT8L/"
+    },
+    {
+        "id": 21,
+        "title": "Teachers Day (Sept 2024)",
+        "content": "Celebration and felicitation of teaching faculty",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949805/NSS/iyturuinzfa2n8lcbe4e.webp",
+        "year": 2024,
+        "event_type": "Specials",
+        "instagramUrl": "https://www.instagram.com/p/C8Lm8BQsP2K/"
+    },
+    {
+        "id": 22,
+        "title": "Plantation Drive (Sept 2024)",
+        "content": "Tree plantation drive for environmental conservation",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742148132/n99s9zap76n8b6d681uh.webp",
+        "year": 2024,
+        "event_type": "plantation",
+        "instagramUrl": "https://www.instagram.com/p/C8Qr9YPsV2K/"
+    },
+    {
+        "id": 23,
+        "title": "Session on hygiene (Sept 2024)",
+        "content": "Awareness session on personal and community hygiene",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742147606/fdc1hu3lxnv9chgzipxz.webp",
+        "year": 2024,
+        "event_type": "Awareness",
+        "instagramUrl": "https://www.instagram.com/p/C8dM5X7sR8Q/"
+    },
+    {
+        "id": 24,
+        "title": "NSS Day Speaker Session (Sept 2024)",
+        "content": "Special session on NSS Foundation Day with alumni",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948610/NSS/vmdy62xbj7cp5xook9iw.webp",
+        "year": 2024,
+        "event_type": "Awareness",
+        "instagramUrl": "https://www.instagram.com/p/C8gHmL_sP5N/"
+    },
+    {
+        "id": 25,
+        "title": "Selection Process (Sept 2024)",
+        "content": "Final round of volunteer selection process",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948788/NSS/zvoe0wl86eulziwadyzy.webp",
+        "year": 2024,
+        "event_type": "Selection Process",
+        "instagramUrl": "https://www.instagram.com/p/C8pQnY2sV8L/"
+    },
+    {
+        "id": 26,
+        "title": "Village Survey (Oct 2024)",
+        "content": "Post-monsoon survey of nearby villages for development needs",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742149350/w37s4w5q9iy3we5cjcjf.webp",
+        "year": 2024,
+        "event_type": "Survey",
+        "instagramUrl": "https://www.instagram.com/p/C9sNqY8sT8L/"
+    },
+    {
+        "id": 27,
+        "title": "Special Campaign 4.0 (Oct 2024)",
+        "content": "Waste management and recycling awareness campaign",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948925/NSS/sovgsskllazfxwllvpbq.webp",
+        "year": 2024,
+        "event_type": "Waste Mannagement",
+        "instagramUrl": "https://www.instagram.com/p/C9Lm8BQsP2K/"
+    },
+    {
+        "id": 28,
+        "title": "Diwali Donation Drive (Nov 2024)",
+        "content": "Festival donation drive for economically disadvantaged families",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949284/NSS/epphcng5sposxquk7ahr.webp",
+        "year": 2024,
+        "event_type": "Donation drive",
+        "instagramUrl": "https://www.instagram.com/p/C-Qr9YPsV2K/"
+    },
+    {
+        "id": 29,
+        "title": "LP School Donation Drive (Nov 2024)",
+        "content": "Donation of educational materials to local primary schools",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949510/NSS/kfmwmso2li7ujr1x5h7g.webp",
+        "year": 2024,
+        "event_type": "Donation drive",
+        "instagramUrl": "https://www.instagram.com/p/C-dM5X7sR8Q/"
+    },
+    {
+        "id": 30,
+        "title": "Speaker session on National Youth Day (Jan 2025)",
+        "content": "Inspirational talk on Swami Vivekananda's teachings",
+        "imgUrl": "",
+        "year": 2025,
+        "event_type": "Awareness",
+        "instagramUrl": "https://www.instagram.com/p/C-gHmL_sP5N/"
+    },
+    {
+        "id": 31,
+        "title": "Speaker session on cervical cancer and blood donation awareness (Jan 2025)",
+        "content": "Health awareness program on women's health and blood donation",
+        "imgUrl": "https://res.cloudinary.com/dyl1oouph/image/upload/v1738475845/q00jz8qsofa8o8dbedae.webp",
+        "year": 2025,
+        "event_type": "Awareness",
+        "instagramUrl": "https://www.instagram.com/p/C-pQnY2sV8L/"
+    },
+    {
+        "id": 32,
+        "title": "Republic day parade (Jan 2025)",
+        "content": "76th Republic Day celebrations and parade",
+        "imgUrl": "https://res.cloudinary.com/dyl1oouph/image/upload/v1738476007/wv7qblnh8rg1egag1ftr.webp",
+        "year": 2025,
+        "event_type": "Specials",
+        "instagramUrl": "https://www.instagram.com/p/C-sNqY8sT8L/"
+    },
+    {
+        "id": 33,
+        "title": "Blood Donation Camp (Jan 2025)",
+        "content": "Winter blood donation camp addressing blood bank shortages",
+        "imgUrl": "https://res.cloudinary.com/dyl1oouph/image/upload/v1738475928/znkphwti7lqdiep477ev.webp",
+        "year": 2025,
+        "event_type": "Blood Donation",
+        "instagramUrl": "https://www.instagram.com/p/D-Lm8BQsP2K/"
+    }
+]
