@@ -2,6 +2,7 @@
         "id": 1,
         "name": "Sohan Mitra",
         "designation": "Vice President",
+        "team": "Vice President",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749821201/mxisxxih7o47myldis1z.webp",
         "facebook": "",
         "linkedin": "",
@@ -11,6 +12,7 @@
         "id": 2,
         "name": "Shaswat Raj",
         "designation": "General Secretary",
+        "team": "General Secretary",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749820852/nbgezezkzlcb00bmfxnz.webp",
         "facebook": "",
         "linkedin": "",
@@ -20,6 +22,7 @@
         "id": 3,
         "name": "Arpita Maurya",
         "designation": "General Secretary",
+        "team": "General Secretary",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749822540/leblrnjuzi5xsjoumrkk.webp",
         "facebook": "#",
         "linkedin": "#",
@@ -29,6 +32,7 @@
         "id": 4,
         "name": "Pritam Kalita",
         "designation": "Treasurer",
+        "team": "Treasurer",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749820865/xleqseyzg4jn3aeyvb48.webp",
         "facebook": "",
         "linkedin": "",
@@ -37,6 +41,7 @@
     {
         "id": 5,
         "name": "Nikhil Kumar Singh",
+        "team": "Web Team",
         "designation": "Joint Secretary (Web)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749821427/szryqshellthqvt3kgyx.webp",
         "facebook": "",
@@ -45,16 +50,18 @@
     },
     {
         "id": 6,
-        "name": "Nishanta Kamal",
+        "name": "Nishanta Kamal Baruah",
+        "team": "Web Team",
         "designation": "Joint Secretary (Web)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749805271/iwzvqyiuqsfs7fyadafy.webp",
-        "facebook": "",
-        "linkedin": "",
-        "instagram": ""
+        "facebook": "https://www.facebook.com/nishanta.kamal.baruah",
+        "linkedin": "https://www.linkedin.com/in/nishanta-kamal-baruah-666027229/",
+        "instagram": "https://www.instagram.com/im.nishantakb/"
     },
     {
         "id": 7,
         "name": "Ayush pratap",
+        "team": "Resource Control Team",
         "designation": "Joint Secretary (Resource Control)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749225451/vtawrdnfrkjaosxbo4vf.webp",
         "facebook": "",
@@ -64,6 +71,7 @@
     {
         "id": 8,
         "name": "Sharmistha",
+        "team": "Resource Control Team",
         "designation": "Joint Secretary (Resource Control)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749224568/uaevvcydsb9shjdqoygt.webp",
         "facebook": "",
@@ -73,6 +81,7 @@
     {
         "id": 9,
         "name": "Shweta Maurya",
+            "team": "Research & Development Team",
         "designation": "Joint Secretary (Research & Development) ",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749823021/oiqdulwylvc903ifxmsr.webp",
         "facebook": "",
@@ -82,6 +91,7 @@
     {
         "id": 10,
         "name": "Dhrubanita Deka",
+            "team": "Research & Development Team",
         "designation": "Joint Secretary (Research & Development) ",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749805551/qcxqou9wgcgs8zbqswbo.webp",
         "facebook": "",
@@ -91,6 +101,7 @@
     {
         "id": 11,
         "name": "Akshay Srivastava",
+            "team": "Design Team",
         "designation": "Joint Secretary (Design)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749822930/ni5spnnqxqhor2bfi3rn.webp",
         "facebook": "",
@@ -100,6 +111,7 @@
     {
         "id": 12,
         "name": "Trisha Das",
+            "team": "Design Team",
         "designation": "Joint Secretary (Design)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749821025/ukplhnjzlrqsmg1jzjk8.webp",
         "facebook": "",
@@ -109,6 +121,7 @@
     {
         "id": 13,
         "name": "Anand kumar Singh",
+            "team": "Content Team",
         "designation": "Joint Secretary (Content)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749805909/dkmmbg1pvah89zvvybwp.webp",
         "facebook": "",
@@ -118,6 +131,7 @@
     {
         "id": 14,
         "name": "Tanvi Sharma",
+            "team": "Content Team", 
         "designation": "Joint Secretary (Content)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749823116/ixjk5bbt6tc5zp41xk1p.webp",
         "facebook": "",
@@ -127,6 +141,7 @@
     {
         "id": 15,
         "name": "Ankur Gupta",
+            "team": "PR Team",  
         "designation": "Joint Secretary (PR)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749805690/uj62hjeag9ijbaiiwzse.webp",
         "facebook": "",
@@ -136,6 +151,7 @@
     {
         "id": 16,
         "name": "Shubhashree Ovhal",
+            "team": "PR Team",
         "designation": "Joint Secretary (PR)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749823000/nmym3r4ell9f9p5q4hvp.webp",
         "facebook": "",
@@ -145,6 +161,7 @@
     {
         "id": 17,
         "name": "Jyothismita Hazarika",
+            "team": "Media Team",
         "designation": "Joint Secretary (Media)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749805442/itot2akx5zpxu3ngwwki.webp",
         "facebook": "",
@@ -154,6 +171,7 @@
     {
         "id": 18,
         "name": "Adarsha Nayak",
+            "team": "Media Team",
         "designation": "Joint Secretary (Media)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749805971/yz1r4taqkoydc5ulqcny.webp",
         "facebook": "",

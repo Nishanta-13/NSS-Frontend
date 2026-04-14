@@ -1,13 +1,13 @@
 import React from "react";
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
-import Home from "./components/home/Home";
-import About from "./components/about/About";
-import Event from "./components/event/Event";
-import Team from "./components/team/Team";
+import Home from "./Pages/home/Home";
+import About from "./Pages/about/About";
+import Event from "./Pages/event/Event";
+import Team from "./Pages/team/Team";
 import Footer from "./components/contact/Footer";
 import Navbar from "./components/navbar/Nabvar";
-import Alumni from "./components/Alumni/Alumni";
+import Alumni from "./Pages/Alumni/Alumni";
 
 function App() {
   return (

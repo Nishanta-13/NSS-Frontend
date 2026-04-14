@@ -1,8 +1,12 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { Button } from "react-bootstrap";
-import Hero from "../hero/Hero";
+import Hero from "../../components/hero/Hero";
 import "./home.css";
+import TestimonialCard from "../../components/Testimonials/Testimonials";
+import TestimonialSlider from "../../components/Testimonials/Testimonials";
+import Principal from "../../components/Principal";
+import ImpactSection from "../../components/Principal";
 
 const Home = () => {
   const scrollToTop = () => {
@@ -54,53 +58,10 @@ const Home = () => {
           </div>
         </div>
 
-        <div className="status p-12  font-sans min-h-1/2 mx-20">
-          <p className="data text-5xl my-3 font-bold 2xl:px-36 xl:px-36 lg:px-36 md:px-24">
-            PRINCIPAL DATA
-          </p>
-          <div className="xl:12 lg:px-20 md:px-24 grid grid-cols-1 sm:grid-cols-2 gap-4">
-            <div className="bigbox1 grid md:grid-cols-2 ">
-              <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center ">
+     
+        <ImpactSection />
+        <TestimonialSlider />
 
-                <div className="figures flex items-center text-[#e12129] ">
-                  <p className="num text-7xl text-[#e12129] py-4">252</p>
-
-                </div>
-                <p className=" des text-lg font-bold">Volunteers</p>
-              </div>
-
-              <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center ">
-
-                <div className="figures flex items-center text-[#e12129] ">
-                  <p className="num text-7xl text-[#e12129] py-4">32</p>
-
-                  <span className="plus block">+</span>
-                </div>
-                <p className="des text-lg font-bold">Total Events</p>
-              </div>
-            </div>
-
-            <div className="bigbox2 grid md:grid-cols-2">
-              <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center md:">
-
-                <div className="figures flex items-center text-[#e12129] ">
-                  <p className="num text-7xl text-[#e12129] py-4">3</p>
-                  <span className="plus block">+</span>
-
-                </div>
-                <p className="des text-lg font-bold">Donation Camps</p>
-              </div>
-              <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center">
-
-                <div className="figures flex items-center text-[#e12129] ">
-                  <p className="num text-7xl text-[#e12129] py-4">7</p>
-                  <span className="plus block">+</span>
-                </div>
-                <p className=" des text-lg font-bold">Expert Talks</p>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </div>
   );

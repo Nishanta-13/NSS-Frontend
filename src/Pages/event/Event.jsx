@@ -1,11 +1,12 @@
 import React from "react";
 import "./event.css";
-import Card from "../card/Card";
-import Heading from "../shared/Heading/Heading";
-import past_events from "../../db/past-event";
-import Header from "../shared/Title-page/Header";
-import Filter from "../Filter/Filter";
+
+import Heading from "../../components/shared/Heading/Heading";
+import Header from "../../components/shared/Title-page/Header";
+import Filter from "../../components/Filter/Filter";
+import { useEffect } from "react";
 const Event = () => {
+  
   return (
     <div className="event-page">
       <Header
@@ -42,23 +43,7 @@ const Event = () => {
         </div>
 
         <div className="events my-4 row gap-10">
-          {/* <div className="upcoming-event">
-            <Heading title="Upcoming Events" />
-            <div className="row gap-0 flex align-items-center justify-content-center">
-              {upcoming_events.map((card, index) => (
-                <div
-                  key={index}
-                  className="col-lg-6 col-xl-4 col-sm-12 col-md-6 d-flex align-items-center justify-content-center"
-                >
-                  <Card
-                    title={card.title}
-                    content={card.content}
-                    imgUrl={card.imgUrl}
-                  />
-                </div>
-              ))}
-            </div>
-          </div> */}
+  
 
        
         
@@ -67,20 +52,7 @@ const Event = () => {
           <div className="past-events">
             <Heading title="Past Events" />
             <Filter/>
-            {/* <div className="row gap-0 flex align-items-center justify-content-center">
-              {past_events.map((card, index) => (
-                <div
-                  key={index}
-                  className={`col-lg-6 col-xl-4 col-sm-12 col-md-6 d-flex align-items-center justify-content-center ${card.event_type} ${card.year}`}
-                >
-                  <Card
-                    title={card.title}
-                    imgUrl={card.imgUrl}
-                    date={card.date}
-                  />
-                </div>
-              ))}
-            </div> */}
+
           </div>
         </div>
       </div>

@@ -12,19 +12,7 @@ const Hero = () => {
   return (
     <div className="slider">
       <Carousel activeIndex={index} onSelect={handleSelect}>
-      <Carousel.Item>
-          <img
-            className="d-block w-100"
-            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742195699/bir23kfjot6c6upgns8e.jpg"
-            alt="first"
-          />
-          <Carousel.Caption>
-            <h2>Plantation Drive</h2>
-            <p>
-              NSS NIT Silchar leads the way to plantation.
-            </p>
-          </Carousel.Caption>
-        </Carousel.Item>
+        
         <Carousel.Item>
           <img
             className="d-block w-100"
@@ -67,18 +55,18 @@ const Hero = () => {
         </Carousel.Item>
       </Carousel>
       <Carousel.Item>
-          <img
-            className="d-block w-100"
-            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742197331/ufmuws8qlqreibmkq7md.jpg"
-            alt="fifth"
-          />
-          <Carousel.Caption>
-            <h2>Village Survey</h2>
-            <p>
-              NSS NIT Silchar conducts' a village survey
-            </p>
-          </Carousel.Caption>
-        </Carousel.Item>
+        <img
+          className="d-block w-100"
+          src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742197331/ufmuws8qlqreibmkq7md.jpg"
+          alt="fifth"
+        />
+        <Carousel.Caption>
+          <h2>Village Survey</h2>
+          <p>
+            NSS NIT Silchar conducts' a village survey
+          </p>
+        </Carousel.Caption>
+      </Carousel.Item>
     </div>
   );
 };

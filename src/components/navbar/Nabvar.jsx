@@ -37,7 +37,7 @@ const Navbar = () => {
         onClick={scrollToTop}
         className="navbar-brand m-0 d-flex  align-items-center justify-content-center"
       >
-        <img src={Logo} alt="nss-logo" className="mr-2 logo-img" />
+        <img src={Logo} alt="nss-logo" className="mr-2 logo-img " />
         <h2
           style={{
             color: "white",
@@ -64,7 +64,7 @@ const Navbar = () => {
               onClick={() => {
                 scrollToTop();
                 closeMenu();
-              }} // Close the menu after clicking on the link
+              }} 
               style={{ color: "white" }}
             >
               Home

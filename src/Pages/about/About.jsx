@@ -123,7 +123,7 @@ import {
   CardTitle,
 } from "react-bootstrap";
 import data from "../../db/about-data.json";
-import Header from "../shared/Title-page/Header";
+import Header from "../../components/shared/Title-page/Header";
 
 function About() {
   return (

@@ -37,8 +37,9 @@
   color: aliceblue;
 }
 .logo-img {
-  width: 2.7rem; /* Adjust the width as needed */
+  width: 3.5rem; 
   height: auto;
+  object-fit: contain;
 }
 .nav-menu li {
   padding: 0 1rem;
@@ -75,10 +76,18 @@
   .btn {
     display: initial;
   }
+  /* reduce logo on small screens */
+  .logo-img {
+    width: 2.4rem;
+  }
 }
 
 @media only screen and (max-width: 500px) {
   .nit-silchar {
     display: none;
+  }
+  /* slightly smaller logo for very small screens */
+  .logo-img {
+    width: 2rem;
   }
 }

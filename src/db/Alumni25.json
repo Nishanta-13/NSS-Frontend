@@ -1,0 +1,31 @@
+[{
+        "id": 0,
+        "name": "Abhijit Das",
+        "designation": "President",
+        "image": "https://res.cloudinary.com/dpkuns9g7/image/upload/v1773154770/Screenshot_2026-03-10_at_8.28.51_PM_trvfnx.png",
+        "facebook_profile_link": "https://www.facebook.com/profile.php?id=100052769931758",
+        "instagram_profile_link": "https://www.instagram.com/a_bhi_das/",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/abhijit-das-61702222a/"
+    },
+    {
+        "id": 1,
+        "name": "Jaan Baishya",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/jaan.baishya.56",
+        "instagram_profile_link": "https://www.instagram.com/chill.jaanb/",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/jaanbaishya027/",
+        "image": "https://res.cloudinary.com/dpkuns9g7/image/upload/v1773155274/Screenshot_2026-03-10_at_8.37.29_PM_dykwux.png"
+    },
+    {
+        "id": 2,
+        "name": "Aman Gupta",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/profile.php?id=100076422633897",
+        "instagram_profile_link": "https://www.instagram.com/who_is_032/",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/aman-gupta-928284229/",
+        "image": "https://res.cloudinary.com/dpkuns9g7/image/upload/v1773155580/Screenshot_2026-03-10_at_8.42.42_PM_kuwp9n.png"
+    }
+   
+  
+
+]
