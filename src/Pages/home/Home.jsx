@@ -29,7 +29,7 @@ const Home = () => {
             <div className="col-lg-6 d-flex flex-column align-items-center justify-content-center text-center">
               <h2 className="fs-1 mb-5 text-uppercase fw-bold">About Us</h2>
               <p className="mb-2 ">
-                Welcome to the NSS unit of NIT Silchar, where we serve our
+                Welcome to the NSS cell of NIT Silchar, where we serve our
                 community through various social initiatives and volunteering
                 activities. Committed to fostering positive change, we strive to
                 make a meaningful impact through teamwork, empathy, and service
