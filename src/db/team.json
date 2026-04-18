@@ -1,45 +1,55 @@
-[{
+[   {
         "id": 1,
+        "name": "Anusri Barman",
+        "designation": "Girl Representative",
+        "team": "Girl Representative",
+        "imageUrl": "https://res.cloudinary.com/dpkuns9g7/image/upload/q_auto/f_auto/v1776481930/IMG_20260418_081635_yzyucq.jpg",
+        "facebook": "https://www.facebook.com/profile.php?id=100087599576197",
+        "linkedin": "https://www.linkedin.com/in/anusri-barman/",
+        "instagram": "https://www.instagram.com/anu_sri1942/"
+    },
+    {
+        "id": 2,
         "name": "Sohan Mitra",
         "designation": "Vice President",
         "team": "Vice President",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749821201/mxisxxih7o47myldis1z.webp",
-        "facebook": "",
-        "linkedin": "",
-        "instagram": ""
+        "facebook": "https://www.facebook.com/profile.php?id=61550791706825",
+        "linkedin": "https://www.linkedin.com/in/sohan-mitra-24a4b328a/",
+        "instagram": "https://www.instagram.com/sohan_1729_m/"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Shaswat Raj",
         "designation": "General Secretary",
         "team": "General Secretary",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749820852/nbgezezkzlcb00bmfxnz.webp",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/profile.php?id=61578290866042",
         "linkedin": "",
-        "instagram": ""
+        "instagram": "https://www.instagram.com/shashwat_raj/"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Arpita Maurya",
         "designation": "General Secretary",
         "team": "General Secretary",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749822540/leblrnjuzi5xsjoumrkk.webp",
-        "facebook": "#",
-        "linkedin": "#",
-        "instagram": ""
+        "facebook": "https://www.facebook.com/profile.php?id=61550717246573",
+        "linkedin": "https://www.linkedin.com/in/arpita-maurya-57a4532a4/",
+        "instagram": "https://www.instagram.com/_arpitaa_27_/"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Pritam Kalita",
         "designation": "Treasurer",
         "team": "Treasurer",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749820865/xleqseyzg4jn3aeyvb48.webp",
-        "facebook": "",
-        "linkedin": "",
-        "instagram": ""
+        "facebook": "https://www.facebook.com/profile.php?id=61554082513498",
+        "linkedin": "https://www.linkedin.com/in/pritam-kalita-755637301/",
+        "instagram": "https://www.instagram.com/pritamkalita387/"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Nikhil Kumar Singh",
         "team": "Web Team",
         "designation": "Joint Secretary (Web)",
@@ -49,17 +59,17 @@
         "instagram": ""
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Nishanta Kamal Baruah",
         "team": "Web Team",
         "designation": "Joint Secretary (Web)",
-        "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749805271/iwzvqyiuqsfs7fyadafy.webp",
+        "imageUrl": "https://res.cloudinary.com/dpkuns9g7/image/upload/q_auto/f_auto/v1776449747/WhatsApp_Image_2026-01-23_at_22.09.02_yjvaqg.jpg",
         "facebook": "https://www.facebook.com/nishanta.kamal.baruah",
         "linkedin": "https://www.linkedin.com/in/nishanta-kamal-baruah-666027229/",
         "instagram": "https://www.instagram.com/im.nishantakb/"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Ayush pratap",
         "team": "Resource Control Team",
         "designation": "Joint Secretary (Resource Control)",
@@ -69,7 +79,7 @@
         "instagram": ""
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Sharmistha",
         "team": "Resource Control Team",
         "designation": "Joint Secretary (Resource Control)",
@@ -79,7 +89,7 @@
         "instagram": ""
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Shweta Maurya",
             "team": "Research & Development Team",
         "designation": "Joint Secretary (Research & Development) ",
@@ -89,7 +99,7 @@
         "instagram": ""
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "Dhrubanita Deka",
             "team": "Research & Development Team",
         "designation": "Joint Secretary (Research & Development) ",
@@ -99,7 +109,7 @@
         "instagram": ""
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Akshay Srivastava",
             "team": "Design Team",
         "designation": "Joint Secretary (Design)",
@@ -109,7 +119,7 @@
         "instagram": ""
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Trisha Das",
             "team": "Design Team",
         "designation": "Joint Secretary (Design)",
@@ -119,7 +129,7 @@
         "instagram": ""
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Anand kumar Singh",
             "team": "Content Team",
         "designation": "Joint Secretary (Content)",
@@ -129,7 +139,7 @@
         "instagram": ""
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Tanvi Sharma",
             "team": "Content Team", 
         "designation": "Joint Secretary (Content)",
@@ -139,17 +149,17 @@
         "instagram": ""
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Ankur Gupta",
             "team": "PR Team",  
         "designation": "Joint Secretary (PR)",
         "imageUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1749805690/uj62hjeag9ijbaiiwzse.webp",
-        "facebook": "",
-        "linkedin": "",
-        "instagram": ""
+        "facebook": "https://www.facebook.com/profile.php?id=100095178866754",
+        "linkedin": "https://www.linkedin.com/in/ankurgupta004/",
+        "instagram": "https://www.instagram.com/ankur__says/"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Shubhashree Ovhal",
             "team": "PR Team",
         "designation": "Joint Secretary (PR)",
@@ -159,7 +169,7 @@
         "instagram": ""
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Jyothismita Hazarika",
             "team": "Media Team",
         "designation": "Joint Secretary (Media)",
@@ -169,7 +179,7 @@
         "instagram": ""
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Adarsha Nayak",
             "team": "Media Team",
         "designation": "Joint Secretary (Media)",
