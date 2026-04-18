@@ -15,12 +15,10 @@ const TeamCard = ({ imageUrl, name, designation, email, instagram, linkedin, fac
           className="w-full h-full object-cover"
         />
       </div>
-
       {/* Text Content */}
       <div className="p-5">
         <h3 className="text-xl font-semibold text-gray-900">{name}</h3>
         <p className="text-gray-600 text-base mt-1">{designation}</p>
-        
         {/* Social Icons */}
         <div className="flex justify-center gap-3 mt-5">
           {email && (

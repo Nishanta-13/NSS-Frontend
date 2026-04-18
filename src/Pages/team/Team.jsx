@@ -17,7 +17,7 @@ const Team = () => {
   }, {});
 
   const teamOrder = [
-    "Girl Representative",
+    "Girls Representative",
     "Vice President",
     "General Secretary", 
     "Treasurer",
